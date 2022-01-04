@@ -1,5 +1,6 @@
-- 👋 Hi, My Name is Ahmed Mohamed Salem, graduated from arab academy for science and technology with bachelor degree in computer science (GPA: 3.73)
-- 👀 I’m interested in mobile development (full stack)
-- 🌱 I’m currently learning Flutter,Dart,Django and Nodejs
+- 👋 Hi, My Name is Ahmed Mohamed Salem
+-  Graduated from Arab academy for science and technology with bachelor degree in computer science (GPA: 3.73)
+- 👀 I’m interested in software development (MERN stack)
+- 🌱 I have knowledge with Flutter,Dart,Django,reactjs and Nodejs
 - 💞️ I’m now working as freelancer and looking for an opportunity to work as in team at reputable company or startup
 - 📫 How to reach me Email: ahmedsalem.me.as@gmail.com
